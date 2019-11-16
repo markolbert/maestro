@@ -1,0 +1,9 @@
+arpreq==0.3.3
+dacite==1.0.2
+mypy-extensions==0.4.3
+pexpect==4.7.0
+ptyprocess==0.6.0
+pystemd==0.6.0
+stringcase==1.2.0
+typing-extensions==3.7.4.1
+typing-inspect==0.5.0
